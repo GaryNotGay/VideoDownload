@@ -3,7 +3,7 @@ Parse and Download Video
 Support Bilibili MangoTV iQiYi YouKu TencentVideo      
 Powered By Some APIs Such as https://github.com/GaryNotGay/VideoParseApi    
       
-============================================================================================          
+========================================================================          
 Update History    
      
 V2.0     2020-08-16     
@@ -24,4 +24,4 @@ Fix Video Name Auto Fill Algorithm
 V1.0     2020-06-07    
 Support Bilibili MangoTV iQiYi YouKu TencentVideo     
 
-============================================================================================     
+========================================================================     
