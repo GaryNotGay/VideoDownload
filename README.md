@@ -4,10 +4,10 @@ Support Bilibili MangoTV iQiYi YouKu TencentVideo
 Powered By Some APIs Such as https://github.com/GaryNotGay/VideoParseApi    
       
 ========================================================================          
-Update History    
-      
-V2.1     2020-08-30
-Add Migu Video Download, Support VIP Video Download    
+Update History        
+          
+V2.1     2020-08-30       
+Add Migu Video Download, Support VIP Video Download         
       
 V2.0     2020-08-16     
 [Main Update] Lower Than This Version Will Be Banned And Forced Update     
