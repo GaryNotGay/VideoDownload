@@ -6,6 +6,12 @@ Powered By Some APIs Such as https://github.com/GaryNotGay/VideoParseApi
 ========================================================================          
 Update History        
           
+V2.2     2020-12-05          
+Migu VIP Video Download Function Has Expired, It Was Replaced by M3U8 Download Mode      
+Replace IQIYI To Self-Research Interface, More Stable Parsing, Timely Repair      
+Fixed A Bug Where Mango TV Videos Could Not Be Downloaded Due To Downloader Problem      
+Due To Interface Failure, YouKu/Tencent Video Parse Download Is Suspended, Will Repair As Soon As Possible     
+          
 V2.1     2020-08-30       
 Add Migu Video Download, Support VIP Video Download         
       
