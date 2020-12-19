@@ -6,6 +6,11 @@ Powered By Some APIs Such as https://github.com/GaryNotGay/VideoParseApi
 ========================================================================          
 Update History        
           
+V2.3    2020-12-19    
+Fix Tencent Video Analysis Download    
+Update Tip Window Display    
+Update M3U8 Downloader V2.9.0    
+          
 V2.2     2020-12-05          
 Migu VIP Video Download Function Has Expired, It Was Replaced by M3U8 Download Mode      
 Replace IQIYI To Self-Research Interface, More Stable Parsing, Timely Repair      
