@@ -2,7 +2,13 @@
 Parse and Download Video     
 Support Bilibili MangoTV iQiYi YouKu TencentVideo      
 Powered By Some APIs Such as https://github.com/GaryNotGay/VideoParseApi    
-      
+
+!!! Warning !!! Warning !!! Warning !!! Warning !!! Warning !!! Warning !!!          
+2022-05-05          
+Some APIs Has Offlined or Changed, Software Invalid         
+New APIs Will Renew At https://github.com/GaryNotGay/VideoParseApi     
+!!! Warning !!! Warning !!! Warning !!! Warning !!! Warning !!! Warning !!!          
+
 ========================================================================          
 Update History        
           
